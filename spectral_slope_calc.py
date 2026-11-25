@@ -1,7 +1,7 @@
 """Расчёт спектральных наклонов и построение рисунка 4."""
 
 import json
-from pathlib import Path
+from pathlib2 import Path
 
 import numpy as np
 from wavelet_analysis import morlet_power_matrix

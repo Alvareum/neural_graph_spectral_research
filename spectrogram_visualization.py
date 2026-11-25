@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from matplotlib.gridspec import GridSpec
-from pathlib import Path
+from pathlib2 import Path
 
 def plot_wavelet_comparison(
     results,
